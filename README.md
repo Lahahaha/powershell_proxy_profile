@@ -1,6 +1,8 @@
 # PowerShell 代理自动配置
 
-本仓库提供一个 PowerShell Profile 脚本，可在启动 PowerShell 时自动读取 Windows 系统代理设置，并将其应用为环境变量（`http_proxy` / `https_proxy`），无需每次手动配置。
+**中文** | [English](./README.en.md)
+
+本仓库提供一个 PowerShell Profile 脚本，可在启动 PowerShell 时自动读取 Windows 系统代理设置，并将其应用为环境变量（`http_proxy` / `https_proxy`），无需每次手动设置代理。
 
 ## 使用方法
 
